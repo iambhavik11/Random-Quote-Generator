@@ -17,7 +17,7 @@ h2 {
   display: flex;
   align-content: center;
   box-shadow: 10px 10px 5px grey;
-  min-width: 200px;
+  max-width: 400px;
 }
 .btn {
   text-align: center;
