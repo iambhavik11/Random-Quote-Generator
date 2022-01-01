@@ -15,7 +15,7 @@ h2 {
 .card {
   margin-top: 20px;
   display: flex;
-  text-align: center;
+  text-align: left !important;
   box-shadow: 10px 10px 5px grey;
   max-width: 400px;
 }
